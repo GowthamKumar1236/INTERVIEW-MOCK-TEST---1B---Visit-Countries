@@ -1,0 +1,35 @@
+.list-items {
+  background-color: #1f1f2f;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  border-top-width: 0px;
+  border: 1px solid #cbd5e1;
+}
+
+.name {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 22px;
+}
+
+.visit {
+  font-family: 'Roboto';
+  color: #94a3b8;
+  font-size: 22px;
+}
+
+.visit-btn {
+  background-color: #3b83f6;
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #ffffff;
+  height: 38px;
+  width: 88px;
+  cursor: pointer;
+  outline: none;
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 10px;
+}

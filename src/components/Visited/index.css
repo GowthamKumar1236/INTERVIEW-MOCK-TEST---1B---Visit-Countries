@@ -1,0 +1,35 @@
+.visited-items {
+  background-color: #1f1f2f;
+  width: 335px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.logo {
+  width: 335px;
+}
+
+.info-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.name {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 12px;
+}
+
+.remove-btn {
+  background-color: transparent;
+  color: #f1f5f9;
+  height: 30px;
+  width: 80px;
+  cursor: pointer;
+  outline: none;
+  border: 1px solid #f1f5f9;
+  border-radius: 5px;
+}
